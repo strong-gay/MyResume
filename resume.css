@@ -8,3 +8,7 @@ header{
     background: url(http://ss.jiaobu365.com/2017/home/images2/mr0020/top_bg.png) no-repeat center center;
     overflow: hidden;
 }
+.header-content{display: flex;justify-content: center;align-items: center;flex-direction: column;margin-top: 60vh;
+                color: aliceblue;}
+.content-name{font-size: 1.25rem;}
+.content-wen{font-size: 1rem;}
