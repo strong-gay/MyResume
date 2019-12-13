@@ -4,7 +4,6 @@
 }
 header{
     height: 95vh;
-    width: 100vw;
     background: url(http://ss.jiaobu365.com/2017/home/images2/mr0020/top_bg.png) no-repeat top center;
     background-size: contain;
     overflow: hidden;
@@ -19,7 +18,7 @@ header{
     background: #fff url(http://ss.jiaobu365.com/2017/home/images2/mr0020/body_bg.png) center top repeat-y;
     padding: 0;
     width: 90vw;
-    margin-left: 5vw;
+    padding-left: 5vw;
 }
 .education,.skill,.work {padding-top: 2vh; margin-bottom: 5vh;}
 .education-name,.professional-skill,.work-experience{
