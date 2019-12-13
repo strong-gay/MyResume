@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 100vh;
+    width: 100vw;
+    background: url(./0.jpg) no-repeat center center;
+    background-size:cover;
+    overflow: hidden;
+}
