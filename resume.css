@@ -14,14 +14,11 @@ header{
 .content-wen{font-size: 1rem;}
 
 .resume{
-    height: auto !important;
     background: #fff url('./img/body_bg.png') center top repeat-y;
     padding: 0;
     width: 90vw;
-    padding:0 5vw;
-    padding-bottom: 10vh;
 }
-.education,.skill,.work,.project,.evaluation,.honor {padding-top: 2vh; margin-bottom: 5vh;}
+.education,.skill,.work,.project,.evaluation,.honor {padding-top: 1vh;}
 .education-name,.professional-skill,.work-experience,.project-experience,.self-evaluation,.Myhonor{
     font-size: 1.25rem;
     font-weight: 700;
