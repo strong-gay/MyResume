@@ -18,7 +18,7 @@ header{
     padding: 0;
     width: 90vw;
 }
-.education,.skill,.work,.project,.evaluation,.honor {padding-top: 1vh;}
+.education,.skill,.work,.project,.evaluation,.honor {padding-top: 2vh; margin-bottom: 5vh;}
 .education-name,.professional-skill,.work-experience,.project-experience,.self-evaluation,.Myhonor{
     font-size: 1.25rem;
     font-weight: 700;
