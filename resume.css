@@ -4,8 +4,8 @@
 }
 header{
     height: 100vh;
-    background: url(http://ss.jiaobu365.com/2017/home/images2/mr0020/top_bg.png) no-repeat top center;
-    background-size: contain;
+    background: url('./img/top_bg.png') no-repeat top center;
+    background-size: cover;
     overflow: hidden;
 }
 .header-content{display: flex;justify-content: center;align-items: center;flex-direction: column;color: aliceblue;
@@ -15,7 +15,7 @@ header{
 
 .resume{
     height: 1000px !important;
-    background: #fff url(http://ss.jiaobu365.com/2017/home/images2/mr0020/body_bg.png) center top repeat-y;
+    background: #fff url('./img/body_bg.png') center top repeat-y;
     padding: 0;
     width: 90vw;
     padding:0 5vw;
